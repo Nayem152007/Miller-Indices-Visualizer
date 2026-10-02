@@ -4,7 +4,7 @@ An interactive 3D visualization tool for understanding and exploring Miller indi
 
 🚀 Live Demo
 
-🔷https://nayem152007.github.io/Miller-s-Visual-Indices/
+🔷https://nayem152007.github.io/Miller-Indices-Visualizer/
 
 Enter Miller indices and visualize the corresponding crystallographic plane in an interactive 3D coordinate system.
 
